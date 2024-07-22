@@ -9,4 +9,4 @@ This is a simple digital clock made with react framework.
 
 ### Links
 
-- Live Site: [ascii roguelike](game-ascii-roguelike.vercel.app)
+- Live Site: [digital clock](https://react-clock-app-kappa.vercel.app)
